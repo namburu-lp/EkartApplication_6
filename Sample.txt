@@ -1,4 +1,0 @@
-Hi Team 
-Good Morning !
-Today we do WebApi Project
-Employee database

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OdZdMOwmuNqfcLNOjhRvWvcMuktcCnHuiml27wzdtds=",
+  "Source": "ECommerceAPP",
+  "BasePath": "_content/ECommerceAPP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
