@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using ECommerceApp.Models;
 using ECommerceAPP.DTOS;
 using ECommerceAPP.Models;
 

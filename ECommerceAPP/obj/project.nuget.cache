@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SCsK1n3h51k=",
+  "dgSpecHash": "UhNfh1+cNfg=",
   "success": true,
-  "projectFilePath": "C:\\ApiFloder\\ECommerceAPP\\ECommerceAPP\\ECommerceAPP.csproj",
+  "projectFilePath": "C:\\Users\\NAMBLAKS\\Sprint\\EkartApplication_6\\ECommerceAPP\\ECommerceAPP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NAMBLAKS\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\NAMBLAKS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

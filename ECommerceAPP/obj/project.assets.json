@@ -5332,11 +5332,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ApiFloder\\ECommerceAPP\\ECommerceAPP\\ECommerceAPP.csproj",
+      "projectUniqueName": "C:\\Users\\NAMBLAKS\\Sprint\\EkartApplication_6\\ECommerceAPP\\ECommerceAPP.csproj",
       "projectName": "ECommerceAPP",
-      "projectPath": "C:\\ApiFloder\\ECommerceAPP\\ECommerceAPP\\ECommerceAPP.csproj",
+      "projectPath": "C:\\Users\\NAMBLAKS\\Sprint\\EkartApplication_6\\ECommerceAPP\\ECommerceAPP.csproj",
       "packagesPath": "C:\\Users\\NAMBLAKS\\.nuget\\packages\\",
-      "outputPath": "C:\\ApiFloder\\ECommerceAPP\\ECommerceAPP\\obj\\",
+      "outputPath": "C:\\Users\\NAMBLAKS\\Sprint\\EkartApplication_6\\ECommerceAPP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

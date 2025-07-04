@@ -37,11 +37,13 @@ namespace ECommerceApp.Controllers
             try
             {
                 var categories = _categoryRepository.GetAllCategories();
+
                 return Ok(categories);
             }
             catch (Exception ex)
             {
                 return StatusCode(500, $"Internal server error: {ex.Message}");
+
             }
         }
 
